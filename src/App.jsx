@@ -13,6 +13,7 @@ function App() {
 
 
     <p className=''>hello world</p>
+    <h1>kanon dilam</h1>
 
     <Routes>
     <Route  path="/home" element={<Home/>} /> 
