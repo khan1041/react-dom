@@ -10,7 +10,8 @@ function App() {
 
   return (
     <>
-
+<p className='text-green-500 bg-black'>hello world</p>
+    <h1 className='bg-blue-400'>kanon dilam</h1>
 
     <p className=''>hello world</p>
     <h1>kanon dilam</h1>
